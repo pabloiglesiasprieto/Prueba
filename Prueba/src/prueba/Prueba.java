@@ -7,7 +7,7 @@ public class Prueba {
 		Scanner sc = new Scanner(System.in);
 
 		double patata = sc.nextDouble();
-
+// ss
 		System.out.println((int) patata );
 
 	}
